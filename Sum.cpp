@@ -7,6 +7,6 @@ int main(){
     int num2=400;
 
     int sumOfNumber=num1+num2;
-    cout<<sumOfNumber<<endl;
+    cout<<"Sum of two number is"<<sumOfNumber<<endl;
 
 }
